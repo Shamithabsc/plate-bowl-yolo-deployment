@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Detection outputs
+outputs/
+runs/
+*.csv
+
+# Test videos/images
+test_videos/
+test_images/
+
+# Large YOLO model files
+models/*.pt
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
