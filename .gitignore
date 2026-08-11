@@ -17,8 +17,8 @@ runs/
 test_videos/
 test_images/
 
-# Large YOLO model files
-models/*.pt
+# # Large YOLO model files
+# models/*.pt
 
 # Temporary files
 *.tmp
