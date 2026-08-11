@@ -1,11 +1,12 @@
 ﻿streamlit==1.60.0
 ultralytics==8.4.112
-pandas
-streamlit-webrtc==0.76.2
-av
 opencv-python-headless==4.12.0.88
 numpy==2.2.6
 pillow==11.3.0
+pandas
+streamlit-webrtc==0.76.2
+av
+
 # absl-py==2.1.0
 # acres==0.2.0
 # aioice==0.10.2
