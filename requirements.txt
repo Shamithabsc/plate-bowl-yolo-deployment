@@ -1,11 +1,21 @@
-streamlit==1.60.0
-ultralytics==8.4.112
-opencv-python-headless==4.13.0.92
-numpy==2.5.1
+numpy==2.2.6
+opencv-python-headless==4.10.0.84
 pillow==12.3.0
+streamlit==1.60.0
 streamlit-webrtc==0.76.2
-pandas
-av
+torch==2.13.0
+torchvision==0.28.0
+ultralytics==8.4.112
+ultralytics-thop==2.1.5
+
+# streamlit==1.60.0
+# ultralytics==8.4.112
+# opencv-python-headless==4.13.0.92
+# numpy==2.5.1
+# pillow==12.3.0
+# streamlit-webrtc==0.76.2
+# pandas
+# av
 
 # absl-py==2.1.0
 # acres==0.2.0
